@@ -1,7 +1,7 @@
 ---
 content_type: page
 description: This page presents information on how 21G.346 was taught.
-draft: true
+draft: false
 title: Instructor Insights
 uid: d4624b9d-dde9-4fc8-8dff-36f0e1f29f02
 ---
@@ -25,7 +25,7 @@ This is a huge challenge for the decades to come: artificial intelligence will p
 
 **OCW:** For the final creative paper assignment, you ask students to write a short story in two versions, both featuring the same characters and the same basic situation, but the first being set in France and the second in the U.S. What does this assignment, the largest single assignment in the course, reveal about students’ learning?
 
-**Bruno Perreau:** I want students to have a complete intellectual experience in which they do not dissociate creation and reflection. This is the main objective of the final exercise. Its second objective is to show students, through the test of facts, that no knowledge is 100% stable and that its robustness lies in the fact that it can be reworked, discussed, refined, and clarified. Knowledge moves with the person, group of people, or institution that mobilizes it—what German philosophet Hans-Georg Gadamer called a "hermeneutic circle," in which we produce knowledge that, in turn, defines us. This is not relativistic at all. Quite the contrary: the truth of facts results from knowledge being a flow, not an essence. That's why, throughout the course, we draw on a great variety of materials: literary texts, pamphlets, series, films, legal texts, historical archives, socio-demographic surveys, and so on. 
+**Bruno Perreau:** I want students to have a complete intellectual experience in which they do not dissociate creation and reflection. This is the main objective of the final exercise. Its second objective is to show students, through the test of facts, that no knowledge is 100% stable and that its robustness lies in the fact that it can be reworked, discussed, refined, and clarified. Knowledge moves with the person, group of people, or institution that mobilizes it—what German philosopher Hans-Georg Gadamer called a "hermeneutic circle," in which we produce knowledge that, in turn, defines us. This is not relativistic at all. Quite the contrary: the truth of facts results from knowledge being a flow, not an essence. That's why, throughout the course, we draw on a great variety of materials: literary texts, pamphlets, series, films, legal texts, historical archives, socio-demographic surveys, and so on. 
 
 **OCW:**  What would you like to share about teaching *21G.346 North America through French Eyes* that we haven’t yet addressed?
 
@@ -42,6 +42,11 @@ One intermediate subject in French
 Most semesters
 
 ## Assessment
+
+- Individual oral presentation: 20% 
+- Weekly short-answer papers: 30%
+- Final creative paper: 40%
+- Class participation: 10%
 
 ## Student Information
 

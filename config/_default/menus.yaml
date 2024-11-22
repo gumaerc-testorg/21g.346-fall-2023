@@ -3,11 +3,15 @@ leftnav:
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
+- identifier: d4624b9d-dde9-4fc8-8dff-36f0e1f29f02
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
 - identifier: 22047e3a-02e0-404a-bff0-8e9faa952212
   name: Topics, Readings, and Media
   pageRef: /pages/topics-and-readingsmedia
-  weight: 20
+  weight: 30
 - identifier: c314d819-2741-4135-b0f0-b560f1b56e39
   name: Assignments
   pageRef: /pages/assignments
-  weight: 30
+  weight: 40
