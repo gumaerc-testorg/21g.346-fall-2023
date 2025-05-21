@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21g-346-north-america-through-french-eyes-fall-2023/mit21g_346f23.jpeg
+file: courses/north-america-through-french-eyes-f23/mit21g_346f23.jpeg
 file_size: 11650900
 file_type: image/jpeg
 image_metadata:
