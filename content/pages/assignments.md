@@ -49,7 +49,7 @@ Victor Hugo, « Les États-Unis d’Europe » (1849)
 
 ### Question 6
 
-De Gaulle et l’OTAN, *Discours et lettres* (1959-1966) ; Charles de Gaulle, « [Vive le Québec libre !](https://www.cbc.ca/news/canada/montreal/charles-de-gaulle-speech-50th-annivesary-1.4218130) » (24 juillet 1967) ; [Discours de Nicolas Sarkozy sur la réintégration de l’OTAN](https://www.ina.fr/ina-eclaire-actu/video/3857366001022/le-retour-de-la-france-dans-l-otan) (archive INA) ; [Discours de Dominique de Villepin d’opposition à la guerre en Irak](https://www.youtube.com/watch?v=RNxU-tN8qNc) (YouTube).
+De Gaulle et l’OTAN, *Discours et lettres* (1959-1966) ; Charles de Gaulle, « {{% resource_link "7b1eeffa-195e-4793-ad8f-ac4267cc1809" "Vive le Québec libre !" %}} » (24 juillet 1967) ; {{% resource_link "7f1a4d2b-63b2-4ec5-a1c1-692fc1363451" "Discours de Nicolas Sarkozy sur la réintégration de l’OTAN" %}} (archive INA) ; {{% resource_link "0b57b5a5-4955-4e86-b567-813dc9957797" "Discours de Dominique de Villepin d’opposition à la guerre en Irak" %}} (YouTube).
 
 - La France est-elle une Nation indépendante ?
 
@@ -61,7 +61,7 @@ Serge Regourd, *L’exception culturelle,* Paris, PUF, coll. Que sais-je ? (2004
 
 ### Question 8 
 
-Darren Star, [*Emily in Paris*](https://www.allocine.fr/series/ficheserie_gen_cserie=22796.html) (2020).
+Darren Star, {{% resource_link "6cd9f522-9461-4d4c-9e27-95309f4769c5" "*Emily in Paris*" %}} (2020).
 
 - Identifiez un lieu de la série et interrogez la façon dont il est présenté
 
@@ -73,6 +73,6 @@ James Baldwin, *La chambre de Giovanni* (1956). Rivage, 1998, pp. 42–49. Extra
 
 ### Question 10
 
-Bruno Perreau, [*Sphères d’injustice. Pour un universalisme minoritaire*](https://www.editionsladecouverte.fr/spheres_d_injustice-9782348080746) (2023). pp 147–156.
+Bruno Perreau, {{% resource_link "90a2cb6c-3763-41f6-97e0-5ad5bba85935" "*Sphères d’injustice. Pour un universalisme minoritaire*" %}} (2023). pp 147–156.
 
 - Êtes-vous favorable à l’*affirmative action* et pourquoi ?

@@ -7,7 +7,7 @@ uid: d4624b9d-dde9-4fc8-8dff-36f0e1f29f02
 ---
 ## Instructor Interview
 
-In the pages linked below, Prof. Bruno Perreau describes various aspects of how he taught *21G.346* [*North America through French Eyes*](https://ocw.mit.edu/courses/21g-346-north-america-through-french-eyes-fall-2023/) in fall 2023.
+In the pages linked below, Prof. Bruno Perreau describes various aspects of how he taught *21G.346* {{% resource_link "b081e51c-1461-4865-bf51-4921ef142a82" "*North America through French Eyes*" %}} in fall 2023.
 
 **OCW:** Since the course is taught entirely in French, you require students to have taken at least one intermediate-level French course before enrolling. Does this level of prior experience with the language ensure enough proficiency that students can delve deeply into the topics under discussion? Or do the challenges of language learning interfere at times? Is increasing students’ fluency in French a primary or secondary goal of the course?
 
