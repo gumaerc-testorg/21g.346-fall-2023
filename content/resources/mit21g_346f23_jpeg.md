@@ -9,9 +9,8 @@ image_metadata:
   caption: "The Statue of Liberty, \xAB la Libert\xE9 \xE9clairant le monde, \xBB\
     \ a universal and iconic symbol of political freedom and democracy, was a gift\
     \ to the U.S. from the people of France on the centennial of American Independence.\
-    \ (Joe Morgan's pop art mural in San Angelo, Texas courtesy of {{% resource_link\
-    \ \"e3704838-624c-4116-84f5-4f6cb2cc9e9f\" \"Jonathan Cutrer\" %}} on Flickr.\
-    \ License: CC BY-NC.)"
+    \ (Joe Morgan's pop art mural in San Angelo, Texas courtesy of [Jonathan Cutrer](https://www.flickr.com/photos/joncutrer/50214885261/)\
+    \ on Flickr. License: CC BY-NC.)"
   credit: 'Courtesy of Jonathan Cutrer on Flickr. License: CC BY-NC.
 
 
@@ -34,4 +33,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-Joe Morgan's pop art mural in San Angelo, Texas courtesy of {{% resource_link "e3704838-624c-4116-84f5-4f6cb2cc9e9f" "Jonathan Cutrer" %}} on Flickr. License: CC BY-NC.
+Joe Morgan's pop art mural in San Angelo, Texas courtesy of [Jonathan Cutrer](https://www.flickr.com/photos/joncutrer/50214885261/) on Flickr. License: CC BY-NC.
