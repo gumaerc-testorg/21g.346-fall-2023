@@ -42,7 +42,7 @@ Jean Baudrillard, *Amérique*. Livre de Poche, 1988, pp. 50–53 and 76–77. IS
 
 #### Film
 
-Jacques Tati, *Jour de fête* (1949). \[Watch on {{% resource_link "863a2a8f-7373-468e-b926-57c43f4232fd" "Internet Archive" %}}}
+Jacques Tati, *Jour de fête* (1949). \[Watch on [Internet Archive](https://archive.org/details/jour-de-fete)}
 
 ## 2e Partie: La Politique Americaine De La France
 
@@ -58,7 +58,7 @@ Victor Hugo, « Les États-Unis d’Europe, » Congrès de la paix, 21 août 184
 
 ### Classe 11 : L’indépendance de la France : de la seconde guerre mondiale à la crise irakienne
 
-De Gaulle et l’OTAN, *Discours et lettres* (1959–1966) ; Charles de Gaulle, « {{% resource_link "7b1eeffa-195e-4793-ad8f-ac4267cc1809" "Vive le Québec libre !" %}} » (24 juillet 1967) ; {{% resource_link "7f1a4d2b-63b2-4ec5-a1c1-692fc1363451" "Discours de Nicolas Sarkozy sur la réintégration de l’OTAN" %}} (archive INA) ; {{% resource_link "0b57b5a5-4955-4e86-b567-813dc9957797" "Discours de Dominique de Villepin d’opposition à la guerre en Irak" %}} (YouTube)
+De Gaulle et l’OTAN, *Discours et lettres* (1959–1966) ; Charles de Gaulle, « [Vive le Québec libre !](https://www.cbc.ca/news/canada/montreal/charles-de-gaulle-speech-50th-annivesary-1.4218130) » (24 juillet 1967) ; [Discours de Nicolas Sarkozy sur la réintégration de l’OTAN](https://www.ina.fr/ina-eclaire-actu/video/3857366001022/le-retour-de-la-france-dans-l-otan) (archive INA) ; [Discours de Dominique de Villepin d’opposition à la guerre en Irak](https://www.youtube.com/watch?v=RNxU-tN8qNc) (YouTube)
 
 ## 3e Partie : Cultures Transatlantiques
 
@@ -68,11 +68,11 @@ De Gaulle et l’OTAN, *Discours et lettres* (1959–1966) ; Charles de Gaulle, 
 
 #### Film
 
-Sylvain Chomet, {{% resource_link "088b09f3-2cd6-49da-861d-c7fdd554745f" "*Les Triplettes de Belleville*" %}} (2003). 80 minutes. Animation.
+Sylvain Chomet, [*Les Triplettes de Belleville*](https://www.allocine.fr/film/fichefilm_gen_cfilm=44206.html) (2003). 80 minutes. Animation.
 
 ### Classe 13 : Violences policières et racismes
 
-Intervention d’Ariane Chebel d’Appolonia. Professeur à l’école d’affaires publiques de Rutgers University et à Sciences Po. *Plus blanc que blanc : Réflexion sur le monochrome populiste en Europe.* Dans Sylvie Laurent, Thierry Leclère (dir.), {{% resource_link "241bf5f6-740f-49d9-8431-fe135958ad0e" "De quelle couleur sont les blancs ? Des « petits Blancs » des colonies au « racisme anti-Blancs" %}} », Paris, La Découverte, 2013, pp. 232-39. ISBN : 9782707175588.
+Intervention d’Ariane Chebel d’Appolonia. Professeur à l’école d’affaires publiques de Rutgers University et à Sciences Po. *Plus blanc que blanc : Réflexion sur le monochrome populiste en Europe.* Dans Sylvie Laurent, Thierry Leclère (dir.), [De quelle couleur sont les blancs ? Des « petits Blancs » des colonies au « racisme anti-Blancs](https://journals.openedition.org/lectures/13108) », Paris, La Découverte, 2013, pp. 232-39. ISBN : 9782707175588.
 
 ### Classe 14 : Une culture américaine globale ? Médias, nouvelles technologies et exception culturelle
 
@@ -80,7 +80,7 @@ Serge Regourd, *L’exception culturelle,* Paris, PUF, coll. Que sais-je ? (2004
 
 ### Classe 15 : Emily est-elle vraiment « in Paris » ?
 
-TV : Darren Star, {{% resource_link "6cd9f522-9461-4d4c-9e27-95309f4769c5" "Emily in Paris" %}} (2020).
+TV : Darren Star, [Emily in Paris](https://www.allocine.fr/series/ficheserie_gen_cserie=22796.html) (2020).
 
 ### Classe 16 : La force du droit en France et aux États-Unis.
 
@@ -92,7 +92,7 @@ Intervention de Sabine Raczy-Bili. Première vice-présidente chargée de l’in
 
 #### Film
 
-Bob Swaim, {{% resource_link "a35d227e-37dd-42a4-a062-e3950714d349" "*La France made in USA*" %}} (2007). 53 minutes. Couleur et Noir & Blanc.
+Bob Swaim, [*La France made in USA*](https://www.bobswaim.com/portfolio/la-france-made-in-usa-documentaire-bob-swaim/) (2007). 53 minutes. Couleur et Noir & Blanc.
 
 ### Semaine du 20 novembre : rédaction de la composition finale
 
@@ -102,14 +102,14 @@ James Baldwin, *La chambre de Giovanni* (1956). Rivage, 1998, pp. 42–49. ISBN 
 
 ### Classe 19 : L’action affirmative en France
 
-Bruno Perreau, {{% resource_link "90a2cb6c-3763-41f6-97e0-5ad5bba85935" "*Sphères d’injustice. Pour un universalisme minoritaire*" %}} (2023). pp 147–156. ISBN : 9782348080746.
+Bruno Perreau, [*Sphères d’injustice. Pour un universalisme minoritaire*](https://www.editionsladecouverte.fr/spheres_d_injustice-9782348080746) (2023). pp 147–156. ISBN : 9782348080746.
 
 ### Classe 20 : La pensée américaine en France : l’exemple du genre
 
-Bruno Perreau, {{% resource_link "ec4764d0-11de-4282-81e1-85468392201f" "*Qui a peur de la théorie queer ?*" %}} (2018). pp. 84–89. ISBN : 9782724622454.
+Bruno Perreau, [*Qui a peur de la théorie queer ?*](https://www.pressesdesciencespo.fr/fr/book/?GCOI=27246100163040) (2018). pp. 84–89. ISBN : 9782724622454.
 
 ### Classe 21 : Bilan du semestre
 
 #### Film
 
- Jean-Luc Godard, {{% resource_link "e5e38d40-ade5-4dcb-a789-408c133857f8" "*Made in USA*" %}} (1966).
+ Jean-Luc Godard, [*Made in USA*](https://www.allocine.fr/video/player_gen_cmedia=19369177&cfilm=6739.html) (1966).
